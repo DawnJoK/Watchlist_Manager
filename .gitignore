@@ -1,0 +1,10 @@
+# Compiled class files
+*.class
+
+# MySQL Connector JAR (users should download separately)
+*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
