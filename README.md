@@ -45,6 +45,16 @@ javac -cp ".;mysql-connector-j-9.7.0.jar" WatchlistManager.java
 java -cp ".;mysql-connector-j-9.7.0.jar" WatchlistManager
 ```
 
-## Screenshot
+## Screenshots
 
-*(add a screenshot of your app here)*
+### Main Interface
+![Main Interface](screenshots/screenshot1.png)
+
+### Add New Show
+![Add New Show](screenshots/screenshot2.png)
+
+### Mark as Finished
+![Mark as Finished](screenshots/screenshot3.png)
+
+### Increment Episode
+![Increment Episode](screenshots/screenshot4.png)
